@@ -7,4 +7,10 @@ The major work apart from the dashboard visualization includes the usage of the 
 
 Good, all the countries who made it to the semi-finals and finals where known from this analysis, including the goal ratio and the rest.
 
+I have attached a PDF document which is an extract from the visualization dashboard.
+
+The various images as well have been extracted from the dashboard.
+
+You can download and view the report if you have a powerbi desktop or online sevice support.
+
 
